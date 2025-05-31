@@ -1,0 +1,27 @@
+
+      Welcome Chief,
+      This Game is filled with plenty of exciting Quizzes that will boost
+      your General Knowledge. Several Features are added to it to improve
+      its performance and to make appear more realistic.
+
+               # Salient Features:-
+               1. You can choose theme - Light or Dark.
+               2. You can assign 'Player Name' in Profile Section.
+               3. You can analyse your Score in ScoreCard Section.
+               4. You can Replay the Game without reopening.
+
+      Before you start the Game. I suggest you to read the following
+      instructions for the sake of convenience.
+
+            # Instructions:-
+            1. In Quiz, 5 Questions will be asked, each having 4 Options
+               denoted by integers i.e., 1, 2, 3 or 4.
+            2. Only 1 Option is correct out of the 4 options.
+            3. Game does not accept any value or character other than
+               1, 2, 3 or 4
+            4. Press the Option No. corresponding to your answer.
+               (NOTE :- There is no need to press 'Enter' key.)
+            5. There is no negative marking.
+
+      It's gonna be fun !
+      Good luck! Enjoy the Game......
